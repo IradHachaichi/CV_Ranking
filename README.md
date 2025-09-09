@@ -114,8 +114,6 @@ uvicorn app:app --reload
 <li>All uploaded files are stored temporarily and deleted post-processing.</li>
 <li>UUID-based session management ensures secure and independent handling of submissions.</li>
 </ul>
-<h2>📜 License</h2>
-<p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.</p>
 <h2>📬 Contact</h2>
-<p>For inquiries or contributions, please contact the project maintainers at [<a href="mailto:your-email@example.com">your-email@example.com</a>].
+<p>For inquiries or contributions, please contact the project maintainers at [<a href="mailto:iradhachaichi2@outlook.com">iradhachaichi2@outlook.com</a>].
 </p></artifact>
