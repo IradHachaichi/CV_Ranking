@@ -81,10 +81,8 @@
 <h2>📋 Requirements</h2>
 <ul>
 <li>Python 3.10</li>
-<li>Libraries: <code>pdf2image</code>, <code>llama.cpp</code>, <code>sentence-transformers</code>, <code>poppler-utils</code></li>
 <li>Models: CRAFT, TrOCR, LLaMA, SentenceTransformer (<code>all-MiniLM-L6-v2</code>)</li>
 <li>Disk space for temporary file storage</li>
-<li>Poppler installed for PDF-to-image conversion</li>
 </ul>
 <h2>🚀 Getting Started</h2>
 <ol>
