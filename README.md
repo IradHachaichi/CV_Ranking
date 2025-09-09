@@ -68,11 +68,6 @@
 </ul>
 </li>
 </ul>
-<h3>Example Output</h3>
-<ul>
-<li><strong>Figure 6.1</strong>: Screenshot of the user interface for resume and job description submission.</li>
-<li><strong>Figure 6.2</strong>: Sample output showing the ranked resumes with similarity scores and structured data.</li>
-</ul>
 <h2>🛠️ Technologies Used</h2>
 <ul>
 <li><strong>File Processing</strong>: <code>pdf2image</code>, Poppler</li>
