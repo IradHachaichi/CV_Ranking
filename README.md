@@ -1,5 +1,5 @@
 <artifact artifact_id="56dc7f52-6028-4c3a-8b9e-6bec3036c758" artifact_version_id="1a2b3c4d-5e6f-7890-abcd-ef1234567890" title="README.md" contenttype="text/markdown">
-# CV_Ranking – Recruitment Module
+
 <h2>Overview</h2>
 <p>The CV_Ranking module is designed to streamline the recruitment process by automating the selection and ranking of resumes based on their relevance to a provided job description. The system minimizes human effort and time while ensuring the identification of the most suitable candidates through advanced text processing and machine learning techniques.</p>
 <h2>🎯 Objectives</h2>
