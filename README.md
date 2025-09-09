@@ -85,22 +85,30 @@
 <li>Disk space for temporary file storage</li>
 </ul>
 <h2>🚀 Getting Started</h2>
-<ol>
-<li><strong>Clone the Repository</strong>:
-<pre><code class="language-bash">git clone &#x3C;repository_url>
-</code></pre>
-</li>
-<li><strong>Install Dependencies</strong>:
-<pre><code class="language-bash">pip install -r requirements.txt
-</code></pre>
-</li>
-<li><strong>Configure Poppler</strong>: Ensure Poppler is installed and added to the system PATH.</li>
-<li><strong>Run the Application</strong>:
-<pre><code class="language-bash">python main.py
-</code></pre>
-</li>
-<li><strong>Access the Interface</strong>: Open the provided URL in a browser to upload resumes and job descriptions.</li>
-</ol>
+
+1. **Clone the Repository**:
+   ```bash
+   git clone <repository_url>
+   ```
+2. **Install Dependencies**:
+ ```bash   
+pip install -r requirements.txt
+   ```
+3. **Install Additional Models**:
+
+Ensure CRAFT (mk25) and TrOCR (printed version) models are installed for text detection and OCR.
+
+Configure llama.cpp for LLaMA model integration.
+
+4.**Configure Poppler**:
+Ensure Poppler is installed and added to the system PATH.
+
+5.**Run the Application**:
+ ```bash  
+uvicorn app:app --reload
+```
+
+   
 <h2>🔐 Data Privacy</h2>
 <ul>
 <li>All uploaded files are stored temporarily and deleted post-processing.</li>
